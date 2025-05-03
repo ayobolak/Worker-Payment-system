@@ -1,4 +1,4 @@
-# Worker-Payment-system
+# Highridge Construction Company - Worker Payment System
 
 ## Description 
 This project automates the weekly payment process for 400 dynamically generated workers using both Python and R.
