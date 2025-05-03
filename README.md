@@ -16,7 +16,7 @@ This project automates the weekly payment process for 400 dynamically generated 
 2. It will generate 400 workers and print their payment slips with employee levels.
 
 ### R
-1. Run `payment_system.R` in any R environment (e.g., RStudio).
+1. Run `payment_sysR.R` in any R environment (e.g., RStudio).
 2. It will perform the same operation and print payment slips in the console.
 
 ## Logic
