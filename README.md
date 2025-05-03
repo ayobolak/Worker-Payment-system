@@ -5,7 +5,7 @@ This project automates the weekly payment process for 400 dynamically generated 
 
 ## Files Included
 - `payment_system.py`: Python script for worker generation and payment processing.
-- `payment_system.R`: R script equivalent of the Python version.
+- `payment_sysR.R`: R script equivalent of the Python version.
 - `README.md`: This file with instructions.
 
 - 
